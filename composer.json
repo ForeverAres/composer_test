@@ -1,0 +1,11 @@
+{
+    "name": "foreverares/composer_test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "明天会更好吗",
+            "email": "380291404@qq.com"
+        }
+    ],
+    "require": {}
+}
